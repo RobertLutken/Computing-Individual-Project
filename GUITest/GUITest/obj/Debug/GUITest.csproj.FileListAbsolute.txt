@@ -1,0 +1,9 @@
+c:\users\rob\documents\visual studio 2012\Projects\GUITest\GUITest\bin\Debug\GUITest.exe.config
+c:\users\rob\documents\visual studio 2012\Projects\GUITest\GUITest\bin\Debug\GUITest.exe
+c:\users\rob\documents\visual studio 2012\Projects\GUITest\GUITest\bin\Debug\GUITest.pdb
+c:\users\rob\documents\visual studio 2012\Projects\GUITest\GUITest\obj\Debug\GUITest.csprojResolveAssemblyReference.cache
+c:\users\rob\documents\visual studio 2012\Projects\GUITest\GUITest\obj\Debug\GUITest.Form1.resources
+c:\users\rob\documents\visual studio 2012\Projects\GUITest\GUITest\obj\Debug\GUITest.Properties.Resources.resources
+c:\users\rob\documents\visual studio 2012\Projects\GUITest\GUITest\obj\Debug\GUITest.csproj.GenerateResource.Cache
+c:\users\rob\documents\visual studio 2012\Projects\GUITest\GUITest\obj\Debug\GUITest.exe
+c:\users\rob\documents\visual studio 2012\Projects\GUITest\GUITest\obj\Debug\GUITest.pdb
